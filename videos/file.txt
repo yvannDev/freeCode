@@ -1,0 +1,65 @@
+<!-- 
+                               l'institut africain de l'enseignement secondaire
+                            est un etablissemment scolaire ,l'enseignement general ,technique
+                            ayant une section francophone et une section anglophone
+                            il offre des strategies , methodes ets les moyennes ayant 
+                            pour objectif  de creer et ameliorer chez les aprenants 
+                            un potentiel ,intelectuel, les abtitudes et les moyennes de 
+                            reussi.
+                            cet etablissemment possede un cadre calme, spacieux , propisse la transmition 
+                            et a la reception des connaissance.
+                            <img>
+                            l'enseignements est organiser d'une maniere a favoriser la reussite et les 
+                            l'insertion sociaux des aprenants   
+                               <section francophone>
+                                    1 enseignement secondaire general
+                                    <IMG>
+                                      1.1 unites d'enseignement 
+                                    les principales unites d'enseignement son
+                                    mathematiques ,physique, chimie,anglais ,informatique ,francais ,histoire , education a la cityenneter et morale 
+                                    geographie et science a la vie et de la terre
+                                     ces unites d'enseignement sont dispensser  par des enseignants qualifier 
+                                     et developper dans les livres au programme
+                                     1.2
+                                     classe conserners
+                                     -premier sycle (6eme, 5eme ,4eme ,3eme) 
+                                      -seconde sycle(2ndeA ,2ndeC  ,1PA ,PC ,PD ,PTI , TLEA ,TLED,TLEC ,TLE,TI )
+                                      
+                                     2 enseignement secodaire technique
+                                      <deux img>
+                                     1.1 enseignement technique et industrielle
+                                     a unites d'enseignement
+                                     dans ces domaines , les principales unites d'enseignement son:
+                                     mathematique physiques mecanique appliquer electriciter chimie francais anglais
+                                     fabrication mecanique informatique
+                                     b les classes conserners
+                                     -----
+                                     <video>
+                                     -premier sycle :de la premiere annee a la quatrieme (pour les filieres genie electrique,
+                                     MARER,COMER,ESF,)
+                                     -seconde sycle:de la seconde en terminale(pour les filieres MVT,F3,IH,ESF)
+                                     ----
+                                     1.2 enseignement technique commerciale
+
+                                     a unites d'enseignement
+                                     les principales unites d'enseignement dispensser sont: comptabiliter et gestion d'entreprise,
+                                     technique commerciale ,mathematique appliquer,economie general, et organisation d'entreprise
+                                     management,finance d'entreprise
+                                     b les classe conserner 
+                                     -premier sycle :de la premiere annee a la quatrieme annee(pour la filiere ESCOM)
+                                     -seconde sycle:de la seconde en terminal ACC et CG
+                                     <VIDEO>
+
+                                      1 section anglophone
+                                      <img>
+                                      1.1 uniter d'enseignement
+                                      dans la section anglophone  les uniters d'enseignements
+                                      sont :mathematics , bioblogy,chemistry,french, 
+                                      arts ,sciences computer scient
+                                       
+                                      1.2 les classes conserners
+                                      nous avons les classes suivantes:
+                                      -premier sycle: from one a from four 
+                                      -seconde sycle: from five a upper sixth
+                                    content:'\21D3';
+                               -->

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- insertion du css en utilisant un lien externe -->
+        <!-- <link rel="shortcut" href="images/chario.ico"> -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />     
+       <link rel="stylesheet" href="./css/iaes.css">
+       <link rel="shortcut icon" href="/images/college.PNG" type="image/x-icon">
+    <title>iaes school</title>
+</head>
+<body>
+      <!-- creation de la barre de navigation du site  -->
+      <section class="header-hidden">
+        <ul class="nav-hidden">
+          <li class="a-it">
+            <i class="fa-solid fa-magnifying-glass " id="open-id"></i>
+          </li>
+          <li class="a-it">
+            <a href="" class="n-link"><sup><i class="fa-solid fa-location-pin"></i>douala 3<sup style="font-size: 10px;">eme</sup>  nyalla pariso</i>
+            </a>
+          </li>
+          <li class="a-it">
+            <a href="" class="n-link"><i class="fa-regular fa-bell" data-bell="123"><small id="not"></small></i>
+            </a>
+          </li>
+        </ul>
+</section>
+
+ <header class="s-header">
+        <nav class="nav-header">
+          <ul class="nav-menu">
+            
+            <li class="nav-items">
+              
+              <a href="iaesApp.html" class="nav-link"><i class="fa fa-home"></i> accueil</a>
+            
+            </li>
+            <li class="nav-items">
+              
+              <a href="apropos.html" class="nav-link"><i class="fa-solid fa-weibo"></i> apropos</a>
+            
+            </li>
+            <li class="nav-items">
+              
+              <a href="services.html" class="nav-link"><i class="fa-regular fa-bell"></i> services</a>
+            
+            </li>
+            <li class="nav-items">
+              
+              <a href="#footer" class="nav-link"><i class="fa fa-phone-volume"></i> contact</a>
+            
+            </li>
+            <li class="nav-items">
+              
+              <a href="formregister.html" class="nav-link"><i class="fa-regular fa-bell"></i>connecter</a>
+            
+            </li>
+          </ul>
+          
+          <div class="hammburger">
+              <span class="bar "></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+          </div>
+        </nav>
+ </header>
+           
+           
+          <!-- realisation du formulair-->
+              <div class="contain-form">
+                      <div class="get-form-and-info">
+                             <p class="infos-form">
+                                bienvenue a l'institut africain des enseignements 
+                                secondaires 
+                             </p>
+                              <div class="form-web">
+                                       <form class="register-and-login" id="register-and-login">
+                                         <h4 class="title-form">remplissez les champ suivants</h4>
+                                        <p class="pError" id="pError"></p>
+                                        
+                                        <label for="nom"><i class="fa-solid fa-users"></i>votre nom complet</label>
+                                         <input type="text" id="nom" name="nom" class="form-riR"  autocomplete="true">
+                                        <label for="email"><i class="fa-solid fa-address-book"></i>votre email</label>
+                                         <input type="email" id="email" name="email" class="form-riR" autocomplete="true">
+                                        <label for="lacoted"><i class="fa-solid fa-comment"></i>votre address</label>
+                                         <input type="text" id="lacoted" name="text" class="form-riR" autocomplete="true">
+                                        <label for="phone"><i class="fa-solid fa-phone"></i> contacts </label>
+                                         <input type="tel" name="phone" id="phone" class="form-riR" autocomplete="true">
+                                        <!-- <div class="chek-input">
+                                                <label for="genre"> <i class="fa-solid fa-person-dress"></i>sexe</label>
+                                                <label for="m">homme</label><input type="radio" name="check" class="form-riR" checked>
+                                                <label for="m">femme</label> <input type="radio" name="check" class="form-riR">
+                                               </div>
+
+                                        <div class="chek-input">
+                                                <label for="genre">vous etes:</label>
+                                                <label for="p">parant</label><input type="checkbox" name="check" class="form-riR">
+                                                <label for="e">eleve</label> <input type="checkbox" name="check" class="form-riR">
+                                               </div> -->
+                                              <label for="password"><i class="fa-solid fa-lock"></i>votre mot de passe</label> 
+                                         <input type="password" id="password" name="mdp" class="form-riR" autocomplete="true">
+                                              <!-- <label for="password"><i class="fa-solid fa-lock"></i>confirmer votre mot de passe</label> 
+                                         <input type="password" name="mdp" class="form-riR" placeholder="*************"> -->
+                                              <label for="pseudo"><i class="fa-solid fa-user"></i>votre pseudo</label> 
+                                         <input type="text" id="pseudo" name="pseudo" class="form-riR" autocomplete="true">
+                                         <input class="riR-btn" id="valid-success" type="submit" name="validez" value="envoyer">
+                                         
+                                         <a href="formlogin.html" class="link-connect">connecter vous?</a>   
+                                       </form>
+                                       <div class="success-info">
+                                                <div class="success">
+                                                        <!-- vos informations on été réaliser avec success -->
+                                                         vos informations sont en cour de traitement veuillez patienter
+
+                                                        <a   class="links-success">en cour de traitement</a>
+                                                </div>  
+                                       </div> 
+                              </div>
+                      </div>   
+              </div>
+    
+      <!-- le pied de page du site web -->
+                       
+      <footer class="footer-container" id="footer">
+        <div class="wraper">
+          <div class="title-name">
+            <h1 class="fo"><i class="fa-solid fa-comments"></i>contactez nous</h1>
+          </div>
+           
+           <div class="liens-rapide">
+                   <div class="name">
+                    <a href="" class="links-name">facebook</a>
+                    <a href="" class="links-name">whatsapp</a>
+                    <a href="" class="links-name">appell</a>
+                   </div>    
+                   <div class="network">
+                    <a href="" class="links-network"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="" class="links-network"> <i class="fa-brands fa-whatsapp"></i></a>
+                    <a href="" class="links-network">  <i class="fa-solid fa-phone"></i></i></a>
+                   </div>    
+           </div>
+           <hr>
+           <div class="my-channel">
+            <a href="" class="links-git"><i class="fa-brands fa-github"></i></i></a> 
+            <a class="links-git">&copy;|by yvanDev <span class="year"></span> </i></i></a> 
+           </div>
+          </div>
+</footer> 
+          <!-- lien externe du javascript -->
+          <script src="/js/iaes.js"></script>
+          <script src="/js/iaes2.js"></script>
+
+
+</body>
+</html>
